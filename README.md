@@ -1,55 +1,19 @@
-# Mayank1008-png-Project2-Python-Sql-Excel-PowerBI
-# 💼 HR Analytics Dashboard – SQL + Python + Power BI
+# SQL-Python-Power-Bi
+### Explore the synergy of SQL, Python, and Power BI in this project! Leveraging data manipulation with SQL, dynamic scripting with Python, and compelling visualizations with Power BI, this project showcases a harmonious integration of these technologies. Discover how data transforms into insights through this collaborative endeavor. 
 
-Analyze employee data to understand **attrition trends**, **job satisfaction**, and **HR metrics** using:
+## Takeaway from the project
 
-- 🐍 Python (Pandas, NumPy, Matplotlib, Seaborn)
-- 🧠 SQL (MySQL queries)
-- 📊 Power BI (interactive visual dashboard)
+- Functional Validation - Test each feature work as per requirment. To verify all filters and action filters on the report work as per requirement.
+- Data Validation - Check the accuracy and quality of the data. To match the values in Power Bi with SQL queries as well as Python programs.
+- How to import the data in MySQL
+- Write basic and advance SQL queries and Python programs.
+- Different SQL functions like SELECT, INSERT, WHERE, GROUPBY, ORDER BY, HAVING, CASE Statements, cte, Subqueries, Round() etc.
+- Importing different Python libraries like Numpy, Pandas, Matplotlib and Seaborn.
+- Different Pandas dataframe and Numpy functions.
+- Analysis using different Plots.
 
----
 
-## 🔍 Key Insights
-- 📉 **Attrition Rate**: 16.12%
-- 👩‍🔬 Highest attrition from **R&D Department**
-- 🎓 Education fields like **Life Sciences** and **Medical** face more exits
-- 👨‍👩‍👧‍👦 Age group **25–34** has most employees & highest attrition
-- 📊 Roles like **Sales Executive** show highest satisfaction rating 4
 
----
 
-## 📂 Project Structure
-
-- `hr analytics SQL.sql` – SQL queries for KPIs, groupings, and summaries.
-- `HR Analytics Python.ipynb` – Python-based EDA and visualizations.
-- `hrdata.csv` – Raw HR dataset.
-- `HR Analytics Dashboard.pbix` – Power BI dashboard file.
-- `README.md` – Project overview and instructions.
-
----
-
-## 🧠 Skills Demonstrated
-
-- SQL: Aggregates, CASE, GROUP BY, subqueries, CTEs
-- Python: Data Cleaning, Visualization, Analysis
-- Power BI: Dashboarding, filters, themes, cards, KPIs
-- Data storytelling through multi-tool integration
-
----
-
-## 📈 Tools Used
-
-| Tool      | Use                        |
-|-----------|-----------------------------|
-| SQL       | Data querying & cleaning    |
-| Python    | Data analysis & charts      |
-| Power BI  | Dashboard visualization     |
-| Excel     | Data validation/checks      |
-
----
-
-## 👨‍💻 Author
-
-**Mayank Tyagi**  
-Building data analyst portfolio projects using real-world scenarios and tools.
+  ![HR Analytics Dashboard](https://github.com/shubhammalik20/SQL-Python-Power-Bi/assets/135993334/443675b1-3dbf-48f3-8f94-c3e94e70cb23)
 
